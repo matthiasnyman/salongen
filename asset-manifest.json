@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/salongen/static/css/main.e7dfb109.chunk.css",
-    "main.js": "/salongen/static/js/main.0c4157a7.chunk.js",
-    "main.js.map": "/salongen/static/js/main.0c4157a7.chunk.js.map",
+    "main.js": "/salongen/static/js/main.821d90ce.chunk.js",
+    "main.js.map": "/salongen/static/js/main.821d90ce.chunk.js.map",
     "runtime-main.js": "/salongen/static/js/runtime-main.a8b954e1.js",
     "runtime-main.js.map": "/salongen/static/js/runtime-main.a8b954e1.js.map",
     "static/js/2.6cc8f197.chunk.js": "/salongen/static/js/2.6cc8f197.chunk.js",
     "static/js/2.6cc8f197.chunk.js.map": "/salongen/static/js/2.6cc8f197.chunk.js.map",
     "index.html": "/salongen/index.html",
-    "precache-manifest.48b70aff90080b6adda3f85c87854321.js": "/salongen/precache-manifest.48b70aff90080b6adda3f85c87854321.js",
+    "precache-manifest.604457a636a6fe6c104f012032f300f2.js": "/salongen/precache-manifest.604457a636a6fe6c104f012032f300f2.js",
     "service-worker.js": "/salongen/service-worker.js",
     "static/css/main.e7dfb109.chunk.css.map": "/salongen/static/css/main.e7dfb109.chunk.css.map",
     "static/media/arrow.svg": "/salongen/static/media/arrow.e5dea59b.svg",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.a8b954e1.js",
     "static/js/2.6cc8f197.chunk.js",
     "static/css/main.e7dfb109.chunk.css",
-    "static/js/main.0c4157a7.chunk.js"
+    "static/js/main.821d90ce.chunk.js"
   ]
 }
