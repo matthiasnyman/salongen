@@ -2,7 +2,7 @@
   "name": "salongen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://matthiasnyman.github.io/salongen",
+  "homepage": "https://matthiasnyman.github.io/salongen",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cp build/index.html build/404.html",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",

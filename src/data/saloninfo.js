@@ -14,7 +14,7 @@ const SALONSINFO = [
   },
   {
     id: 2,
-    title: 'något annat',
+    title: 'Hårizont',
     address: 'Rådmansgatan 46',
     openTo: 19, 
     stars: 4,
@@ -27,7 +27,7 @@ const SALONSINFO = [
   },
   {
     id: 3,
-    title: 'Sax och annat',
+    title: 'Hårhuset',
     address: 'Rådmansgatan 46',
     openTo: 19, 
     stars: 4,
@@ -40,7 +40,7 @@ const SALONSINFO = [
   },
   {
     id: 4,
-    title: 'Sax och annat',
+    title: 'Hair & Nu',
     address: 'Rådmansgatan 46',
     openTo: 19, 
     stars: 4,
@@ -53,7 +53,7 @@ const SALONSINFO = [
   },
   {
     id: 5,
-    title: 'Sax och annat',
+    title: 'Hårley Davidson',
     address: 'Rådmansgatan 46',
     openTo: 19, 
     stars: 4,
