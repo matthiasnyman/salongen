@@ -13,8 +13,8 @@ import phone from "../img/phone.svg";
 class Salong extends Component {
 
   render() {
-    // const id = this.props.match.params.id;    
-    const Salon = salonInfo[1];
+    const id = this.props.match.params.id - 1;    
+    const Salon = salonInfo[id];
     
     return (
       <div>
