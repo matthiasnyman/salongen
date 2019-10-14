@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/salongen/static/css/main.e7dfb109.chunk.css",
-    "main.js": "/salongen/static/js/main.6ff4a283.chunk.js",
-    "main.js.map": "/salongen/static/js/main.6ff4a283.chunk.js.map",
+    "main.js": "/salongen/static/js/main.0c4157a7.chunk.js",
+    "main.js.map": "/salongen/static/js/main.0c4157a7.chunk.js.map",
     "runtime-main.js": "/salongen/static/js/runtime-main.a8b954e1.js",
     "runtime-main.js.map": "/salongen/static/js/runtime-main.a8b954e1.js.map",
-    "static/js/2.a3aa25b2.chunk.js": "/salongen/static/js/2.a3aa25b2.chunk.js",
-    "static/js/2.a3aa25b2.chunk.js.map": "/salongen/static/js/2.a3aa25b2.chunk.js.map",
+    "static/js/2.6cc8f197.chunk.js": "/salongen/static/js/2.6cc8f197.chunk.js",
+    "static/js/2.6cc8f197.chunk.js.map": "/salongen/static/js/2.6cc8f197.chunk.js.map",
     "index.html": "/salongen/index.html",
-    "precache-manifest.ed58ed9d6b16f1a4350ef70b88660f39.js": "/salongen/precache-manifest.ed58ed9d6b16f1a4350ef70b88660f39.js",
+    "precache-manifest.48b70aff90080b6adda3f85c87854321.js": "/salongen/precache-manifest.48b70aff90080b6adda3f85c87854321.js",
     "service-worker.js": "/salongen/service-worker.js",
     "static/css/main.e7dfb109.chunk.css.map": "/salongen/static/css/main.e7dfb109.chunk.css.map",
     "static/media/arrow.svg": "/salongen/static/media/arrow.e5dea59b.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a8b954e1.js",
-    "static/js/2.a3aa25b2.chunk.js",
+    "static/js/2.6cc8f197.chunk.js",
     "static/css/main.e7dfb109.chunk.css",
-    "static/js/main.6ff4a283.chunk.js"
+    "static/js/main.0c4157a7.chunk.js"
   ]
 }
