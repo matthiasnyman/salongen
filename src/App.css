@@ -1,22 +1,163 @@
-.App {
+
+
+/*****   Styling for Starcomponent   *****/
+.stars{
+  color: #f9f9f9;
+  display: inline;
+}
+
+
+.stars small{
+  font-size: 13px;
+  color: #656565;
+  margin-left: 10px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.stars img{
+  width: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+/*****   Styling for landingpage   *****/
+
+
+.salonListitem{
+  display: flex;  
+  flex-direction: row;
+}
+
+.salonClock, .salonPrice{
+  font-weight: 520;
+  font-size: 15px;
+  width: 38px;
+  height: 17px;
+  width: 40px;
+  margin: 16px 6% 0 4%;
+}
+
+.salonDiv{
+  flex-grow: 1;
+}
+
+.salonTitle{
+  width: 86px;
+  height: 29px;
+  font-size: 20px;
+  font-weight: 300;
+  margin: 6% 0;
+}
+
+.salonStars{
+  margin: 2% 0 0 0;
+  display: inline;
+}
+
+.salonAddress{
+  font-size: 15px;
+  font-weight: 300;
+  color: #666666;
+  
+}
+
+.salonTime{
+  width: 39px;
+  height: 16px;
+  font-size: 13px;
+  font-weight: 300;
+  color: #666666;
+}
+
+.arrowsection{
+
+  margin: auto 15px auto 15px;
+}
+
+.arrowsection img{
+  width: 12px;
+}
+
+
+/*****   Salon style   ******/
+
+.salonArea{
+  background-color: #F9F9F9;
+}
+
+.salonHeader{
+  width: 100%;
+  height: 30vh;
+  margin: 0;
+  background-image: url("./img/background.png");
+  background-repeat: no-repeat;
+  
+}
+
+.salonHeaderStyle{
+  width: calc(100% - 30px);
+  height: calc(100% - 30px);
+  margin: 0;
+  padding: 15px;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  
 }
 
-.App-link {
-  color: #09d3ac;
+.salonName{
+  color: #eeeeee;
+  font-weight: 100;
+}
+
+header hr{
+  border: 1px solid #b69f58;
+  width: 100%;
+}
+
+.salonHeart{
+  float: right;
+  width: 37px;
+  height: 25px;
+}
+
+.salonHeaderStyle .stars small{
+  color: #eeeeee;
+}
+.salonheaderTopp{
+  flex-grow: 1;
+}
+
+.backButton img{
+  width: 20px;
+  transform: rotate(180deg);
+}
+
+
+.buttonarea{
+  display:  flex;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+}
+
+.buttonarea div:first-child{
+  border-bottom:1px solid #b69f58;
+}
+
+.buttonarea div{
+  width: 50%;
+  text-align: center;
+}
+
+.salonInfo{
+  background-color: #ffffff;
+  padding: 13px 15px;
+}
+
+.salonInfo img{
+  margin: 0 15px 0 0;
+  background-color: #ffffff;
+}
+
+.salonInfo div{
+  margin: 15px 0;
+  
 }
