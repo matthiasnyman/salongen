@@ -11,8 +11,8 @@ import './index.css';
 ReactDOM.render(
   <Router>
     <Switch>
-      <Route exact path="/" render={()=> <App />} />
-      <Route path="/salon/:id" component={Salong} />
+      <Route exact path={process.env.PUBLIC_URL + '/'} render={()=> <App />} />
+      <Route {process.env.PUBLIC_URL + '/salon/:id'} component={Salong} />
       <Route render={()=> <NotFound />} />
     </Switch>
   </Router>,
